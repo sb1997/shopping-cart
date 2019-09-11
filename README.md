@@ -1,2 +1,3 @@
 # shopping-cart
-Shopping cart website made using node.js, express and mongoDB.
+
+Shopping Cart built using NodeJS, Express, MongoDB and also using Stripe API for validating and accepting the payments.
